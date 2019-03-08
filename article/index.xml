@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Harry&#39;s Blog</title>
+    <link>https://example.com/article/</link>
+    <description>Recent content in Articles on Harry&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Mar 2019 21:28:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>the fist journy on the hugo</title>
+      <link>https://example.com/article/first/</link>
+      <pubDate>Thu, 07 Mar 2019 21:28:36 +0800</pubDate>
+      
+      <guid>https://example.com/article/first/</guid>
+      <description> heading heding2 heading3  the point
+ My new blog page
+  </description>
+    </item>
+    
+  </channel>
+</rss>
